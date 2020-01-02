@@ -1,0 +1,41 @@
+_repo: Prinssi-Keijujalka_61046
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tuulio, Tyyni
+    aliases:
+    - Tallgren, Tyyni
+    - Haapanen-Tallgren, Tyyni
+    - Haapanen, Tyyni
+    - Haapanen-Tallgren, Tyyne
+    birthdate: 1892
+    deathdate: 1991
+    gutenberg_agent_id: '44797'
+    url: http://www.gutenberg.org/2009/agents/44797
+    wikipedia: https://fi.wikipedia.org/wiki/Tyyni_Tuulio
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Townesend, Frances Eliza Hodgson Burnett
+    - Hodgson, Frances Eliza
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: ''
+gutenberg_issued: '2019-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61046'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- GITenberg
+title: Prinssi Keijujalka
+url: http://www.gutenberg.org/ebooks/61046
