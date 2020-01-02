@@ -1,5 +1,5 @@
 _repo: Prinssi-Keijujalka_61046
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Tuulio, Tyyni
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '44797'
     url: http://www.gutenberg.org/2009/agents/44797
     wikipedia: https://fi.wikipedia.org/wiki/Tyyni_Tuulio
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burnett, Frances Hodgson
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/73
     wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61046#Prinssi-Keijujalka
 gutenberg_issued: '2019-12-30'
 gutenberg_type: Text
 identifiers:
